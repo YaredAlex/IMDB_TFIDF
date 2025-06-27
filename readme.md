@@ -11,7 +11,7 @@ pip install -r requirements.txt
 ## Training model
 
 ```bash
-python -m classifier.train
+python train.py
 ```
 
 ## Prediction
